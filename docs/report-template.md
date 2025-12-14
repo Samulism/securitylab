@@ -2,17 +2,17 @@
 
 # Vulnerability Report
 
-I identified potential security vulnerabilities in [product].
+I identified potential security vulnerabilities in faultstudentrecord repositorys main.py file.
 
 I am committed to working with you to help resolve these issues. In this report you will find everything you need to effectively coordinate a resolution of these issues.
 
-If at any point you have concerns or questions about this process, please do not hesitate to reach out to me at [email].
+If at any point you have concerns or questions about this process, please do not hesitate to reach out to me at samulism@gmail.com.
 
 If you are _NOT_ the correct point of contact for this report, please let me know!
 
 ## Summary
 
-*Short summary of the problem. Make the impact and severity as clear as possible. For example: An unsafe deserialization vulnerability allows any unauthenticated user to execute arbitrary code on the server.*
+In the main.py
 
 ## Product
 
